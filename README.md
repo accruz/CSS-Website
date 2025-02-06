@@ -1,2 +1,2 @@
 # CSS-Website
-A Website beautified by some cool CSSS
+A test Websited enhanced using CSS3
